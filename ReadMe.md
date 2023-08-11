@@ -1,8 +1,8 @@
-# randomPassCLI
+# Password Manager CLI
 
 ## Overview
 
-`randomPassCLI` is a command-line password manager that allows users to create, store, and retrieve passwords securely. It also offers the ability to generate strong random passwords for the user.
+`passwordManagerCLI` is a command-line password manager that allows users to create, store, and retrieve passwords securely. It also offers the ability to generate strong random passwords for the user.
 
 ## Features
 
